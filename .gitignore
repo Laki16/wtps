@@ -72,3 +72,6 @@ DerivedData/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.gitignore.io/api/c++,xcode
+
+## node
+node_modules/
